@@ -1,0 +1,14 @@
+{
+	"IssuerOfPatientID": "NONE",
+	"OtherPatientIDsSequence": [
+		{
+			"IssuerOfPatientID": "NONE",
+			"PatientID": "NONE"
+		}
+	],
+	"PatientBirthDate": "NONE",
+	"PatientComments": "NONE",
+	"PatientID": "NONE",
+	"PatientName": "NONE",
+	"PatientSex": "NONE"
+}
